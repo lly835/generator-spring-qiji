@@ -1,0 +1,31 @@
+{
+  "name": "generator-spring-qiji",
+  "version": "1.0.0",
+  "description": "SpringBoot",
+  "homepage": "http://code.59store.com/general/generator-spring",
+  "author": {
+    "name": "null",
+    "email": "lly835@163.com",
+    "url": "https://github.com/lly835"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "SpringBoot"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.24.0",
+    "chalk": "^1.0.0",
+    "yosay": "~1.2.0",
+    "eslint": "^2.1.0",
+    "eslint-config-xo-space": "^0.13.0"
+  },
+  "devDependencies": {
+    "yeoman-test": "^1.0.0",
+    "yeoman-assert": "^2.0.0"
+  },
+  "repository": "lly835/generator-spring",
+  "license": "Apache-2.0"
+}

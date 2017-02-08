@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+kylin:
+  cloud:
+    app:
+      version: 1.0
+      description: demo
+    contextPath: /demo
+    config:
+      name: demo
